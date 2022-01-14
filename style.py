@@ -7,4 +7,4 @@ print("style")
 
 
 class Style:
-    Pass
+    pass
