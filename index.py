@@ -3,3 +3,4 @@ from style import Style
 
 print("Hello world")
 a: Style = ""
+print("test")
