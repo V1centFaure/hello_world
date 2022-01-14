@@ -4,7 +4,7 @@ from image2 import Image2
 # Premier fichier partagé sur GIT
 
 print("Hello world -- Bonjour Monde")
-a: Style = ""
+a: Style = "Youpi"
 b: Image = ""
 c: Image2 = ""
 print("test")
@@ -12,4 +12,4 @@ print("test2")
 print("test ot push to github")
 
 if b == c:
-    print("youpi")
+    print(a)
