@@ -9,3 +9,7 @@ b: Image = ""
 c: Image2 = ""
 print("test")
 print("test2")
+print("test ot push to github")
+
+if b == c:
+    print("youpi")
